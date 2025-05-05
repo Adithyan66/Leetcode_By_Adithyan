@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Two Pointers
 |  |
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
