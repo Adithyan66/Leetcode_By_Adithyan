@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0234-palindrome-linked-list) |
 | [0860-design-circular-queue](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0860-design-circular-queue) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
