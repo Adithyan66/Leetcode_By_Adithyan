@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0387-first-unique-character-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0860-design-circular-queue) |
 ## Binary Search
 |  |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0111-minimum-depth-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
