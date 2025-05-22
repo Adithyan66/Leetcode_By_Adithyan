@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
 | [0860-design-circular-queue](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0860-design-circular-queue) |
 ## Math
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
