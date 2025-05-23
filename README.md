@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
 | [0860-design-circular-queue](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0860-design-circular-queue) |
 ## Math
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
