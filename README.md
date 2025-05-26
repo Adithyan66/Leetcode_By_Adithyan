@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
 | [0860-design-circular-queue](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0860-design-circular-queue) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0226-invert-binary-tree) |
 ## Counting
 |  |
@@ -235,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0572-subtree-of-another-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
