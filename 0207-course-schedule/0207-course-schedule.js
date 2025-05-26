@@ -28,8 +28,12 @@ var canFinish = function (numCourses, prerequisites) {
         return true
     }
 
+
     for (let i = 0; i < numCourses; i++) {
-        if (!dfs(i)) return false
+        if (!dfs(i)){
+    console.log(arr)
+            return false
+        } 
     }
 
 return true
