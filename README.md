@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
 | [0860-design-circular-queue](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0860-design-circular-queue) |
+| [1036-rotting-oranges](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1039-find-the-town-judge) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Math
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0226-invert-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1036-rotting-oranges) |
 ## Counting
 |  |
 | ------- |
@@ -246,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
