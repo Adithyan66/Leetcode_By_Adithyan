@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
 | [0860-design-circular-queue](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0860-design-circular-queue) |
 | [1039-find-the-town-judge](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1039-find-the-town-judge) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0874-backspace-string-compare) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Design
 |  |
 | ------- |
