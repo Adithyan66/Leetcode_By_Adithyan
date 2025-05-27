@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0367-valid-perfect-square) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
 | ------- |
