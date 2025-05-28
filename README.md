@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0226-invert-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1036-rotting-oranges) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Counting
 |  |
 | ------- |
