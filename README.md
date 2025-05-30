@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0207-course-schedule) |
 | [1039-find-the-town-judge](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1916-find-center-of-star-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## String Matching
 |  |
 | ------- |
