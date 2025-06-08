@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
