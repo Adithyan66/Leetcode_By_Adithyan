@@ -318,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0386-lexicographical-numbers) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
