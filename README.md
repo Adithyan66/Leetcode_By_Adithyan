@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Design
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
 |  |
 | ------- |
@@ -330,4 +332,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1908-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
