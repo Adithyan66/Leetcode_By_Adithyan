@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3321-type-of-triangle) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
 |  |
 | ------- |
