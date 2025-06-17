@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3321-type-of-triangle) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -349,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
