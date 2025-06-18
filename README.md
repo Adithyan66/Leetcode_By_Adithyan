@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2486-most-frequent-even-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3321-type-of-triangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Enumeration
 |  |
