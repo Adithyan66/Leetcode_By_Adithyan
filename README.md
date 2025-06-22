@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0874-backspace-string-compare) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0874-backspace-string-compare) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Sorting
 |  |
 | ------- |
