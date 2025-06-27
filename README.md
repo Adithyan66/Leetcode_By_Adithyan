@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0945-snakes-and-ladders](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
