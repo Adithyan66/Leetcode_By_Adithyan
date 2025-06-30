@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0594-longest-harmonious-subsequence) |
 | [0860-design-circular-queue](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0860-design-circular-queue) |
 | [0945-snakes-and-ladders](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1036-rotting-oranges) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0594-longest-harmonious-subsequence) |
 | [1039-find-the-town-judge](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1039-find-the-town-judge) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2486-most-frequent-even-element](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2486-most-frequent-even-element) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2486-most-frequent-even-element](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2486-most-frequent-even-element) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0594-longest-harmonious-subsequence) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
