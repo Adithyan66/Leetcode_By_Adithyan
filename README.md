@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1039-find-the-town-judge) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0594-longest-harmonious-subsequence) |
 | [1039-find-the-town-judge](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1039-find-the-town-judge) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2486-most-frequent-even-element](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2486-most-frequent-even-element) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2486-most-frequent-even-element](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2486-most-frequent-even-element) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3360-minimum-deletions-to-make-string-k-special) |
