@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0141-linked-list-cycle) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0135-candy) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
