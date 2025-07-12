@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0088-merge-sorted-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0147-insertion-sort-list) |
