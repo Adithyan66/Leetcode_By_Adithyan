@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0147-insertion-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0234-palindrome-linked-list) |
 | [0860-design-circular-queue](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0860-design-circular-queue) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0367-valid-perfect-square) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
