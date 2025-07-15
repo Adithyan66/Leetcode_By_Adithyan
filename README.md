@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3321-type-of-triangle) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3201-distribute-candies-among-children-ii) |
