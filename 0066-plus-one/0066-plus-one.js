@@ -4,16 +4,13 @@
  */
 var plusOne = function (digits) {
 
-    let n = digits.length - 1
-    let sum = 0
-    let carry = 1
-    for (let i = n; i >= 0; i--) {
-        sum = digits[i] + carry
-        carry = Math.floor(sum / 10)
-        digits[i] = sum%10
+    for (let i = digits.length - 1; i >= 0; i--) {
+        if (digits[i] < 9) {
+            digits[i] += 1
+            return digits
+        }
+        digits[i] = 0
     }
-    if(carry>0){
-        digits.unshift(carry)
-    }
+    digits.unshift(1)
     return digits
 };
