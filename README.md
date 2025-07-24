@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2479-meeting-rooms-iii) |
 | [2486-most-frequent-even-element](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0222-count-complete-tree-nodes) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Search Tree
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
