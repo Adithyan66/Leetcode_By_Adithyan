@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0215-kth-largest-element-in-an-array) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0118-pascals-triangle) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
