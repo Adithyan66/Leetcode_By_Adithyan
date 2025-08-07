@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3321-type-of-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1036-rotting-oranges) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Topological Sort
 |  |
 | ------- |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3618-find-the-original-typed-string-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Memoization
 |  |
 | ------- |
