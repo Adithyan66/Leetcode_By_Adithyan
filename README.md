@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0367-valid-perfect-square) |
+| [0826-soup-servings](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0118-pascals-triangle) |
+| [0826-soup-servings](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0826-soup-servings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -579,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
