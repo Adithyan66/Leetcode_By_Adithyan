@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0367-valid-perfect-square) |
 | [0826-soup-servings](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0231-power-of-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
