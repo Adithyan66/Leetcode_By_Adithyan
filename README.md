@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0367-valid-perfect-square) |
 | [0826-soup-servings](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0900-reordered-power-of-2) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Hash Table
