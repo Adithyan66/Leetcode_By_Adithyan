@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0541-reverse-string-ii) |
 | [0874-backspace-string-compare](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0874-backspace-string-compare) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0860-design-circular-queue) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0594-longest-harmonious-subsequence) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0367-valid-perfect-square) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0948-sort-an-array) |
