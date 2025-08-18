@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0679-24-game) |
 | [0837-most-common-word](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0860-design-circular-queue) |
 | [0940-fruit-into-baskets](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0940-fruit-into-baskets) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0367-valid-perfect-square) |
+| [0679-24-game](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0900-reordered-power-of-2) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0257-binary-tree-paths) |
+| [0679-24-game](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Graph
