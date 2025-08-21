@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0217-contains-duplicate) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Adithyan66/Leetcode_By_Adithyan/tree/master/0342-power-of-four) |
